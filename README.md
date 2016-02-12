@@ -1,3 +1,3 @@
 # automated-git
 
-hello wolrd are u there
+finaly automated success  ^_^
