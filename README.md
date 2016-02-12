@@ -1,3 +1,3 @@
 # automated-git
 
-hello wolrd
+hello wolrd automated
