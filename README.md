@@ -1,3 +1,3 @@
 # automated-git
 
-finaly automated success  ^_^
+hello world - its working
