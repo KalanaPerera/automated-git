@@ -1,3 +1,3 @@
 # automated-git
 
-hello world - its working | new
+hello world - its working | new | restart
